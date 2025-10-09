@@ -1,3 +1,2 @@
 # Ignore all database files in this folder
-sql-data-warehouse-project/database/*
-!sql-data-warehouse-project/.gitignore
+database/
